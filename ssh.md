@@ -6,6 +6,7 @@
 2. PermitRootLogin no        禁止root远程登录。
 3. PermitEmptyPasswords no   禁止空密码登录。
 4. PasswordAuthentication no 禁止使用密码方式登录。
+5. GSSAPIAuthentication no
 ```
 
 ### 防火墙配置
