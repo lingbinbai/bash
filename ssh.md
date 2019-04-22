@@ -12,5 +12,9 @@
 ### 防火墙配置
 > 可根据来源IP限制登录。
 
+
+### 常用方法
+> ssh -v 调试模式登录
+
 ### 感谢：
 https://newtoypia.blogspot.com/2017/04/watertight-ssh.html
